@@ -45,3 +45,5 @@ g++ -o calc main.cpp add_sub.cpp mul_div.cpp
 
 - Windows + Git Bash（或任意 POSIX 终端）
 - g++ (MinGW-w64) 或 MSVC
+
+- 2026-10-10：完成四则运算功能实现
